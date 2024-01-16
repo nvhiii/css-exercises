@@ -17,8 +17,9 @@
   padding: 0;
   margin: 0;
   background-color: rgb(99, 97, 97);
-
   display: none;
+  transform-origin: top;
+  
 }
 
 ul.dropdown-menu li:hover {
